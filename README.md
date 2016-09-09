@@ -7,3 +7,4 @@ Then I squash them with git rebase -i before I send for code review or push // i
 //from first branch
 
 again added a line (abranch)
+trying to add a conflict 
